@@ -1,0 +1,10 @@
+
+Voorbeeld van een legale link:
+http://localhost:4567/temperatuur?locatie=Utrecht&datumtijd=01-04-2001_10:10:10
+
+datumtijd format:
+dd-mm-yyyy_hh:mm:ss
+
+locaties die worden gesupport:
+Utrecht
+Barcelona
