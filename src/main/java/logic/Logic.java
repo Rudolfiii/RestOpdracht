@@ -131,7 +131,7 @@ public class Logic {
 
                 result = locationMultiplier * timeMultiplier;
 
-            } else if (locatie.equals("New York")) {
+            } else if (locatie.equals("New_York")) {
                 locationMultiplier = 1.15;
                 if (datumTijd.getMonth() == 12 || datumTijd.getMonth() == 1 || datumTijd.getMonth() == 2) { //winter
                     if (datumTijd.getHours() >= 22 || datumTijd.getHours() < 6) { //s'nachts
